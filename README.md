@@ -1,0 +1,1 @@
+Utilized bootstrap to create a even grid set up as well as a progress bar that is embedded in the last grid and is contained within the original container. Hard challenge on Icodethis, but every happy with the result.
